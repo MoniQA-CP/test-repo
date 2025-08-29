@@ -1,0 +1,27 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node-sdk-testing": "ts-node scripts/node-sdk.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoniQA-CP/test-repo.git"
+  },
+  "author": "Moni Villarroel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoniQA-CP/test-repo/issues"
+  },
+  "homepage": "https://github.com/MoniQA-CP/test-repo#readme",
+  "dependencies": {
+    "@cp/node-sdk": "^1.271.0-stage"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
