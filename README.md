@@ -1,4 +1,3 @@
-# Test Repo
 # 🧪 Testing Repository
 
 Este repositorio está orientado a realizar pruebas sobre nuestro SDK y a construir un entorno de testing más completo a futuro.
@@ -21,12 +20,10 @@ Este repositorio está orientado a realizar pruebas sobre nuestro SDK y a constr
 
 ## Scripts disponibles
 
-```bash
-npm run node-sdk-testing
-
 Este comando ejecuta el archivo scripts/node-sdk.ts con ts-node.
 
----
+```bash
+npm run node-sdk-testing
 
 ## ⚙️ Instalación
 
